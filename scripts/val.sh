@@ -1,0 +1,1 @@
+./demo.py --model_path result/debug/20190304_161040/model_iter_20 --gpu 0 --segmentation --detection --eval_det --eval_seg
